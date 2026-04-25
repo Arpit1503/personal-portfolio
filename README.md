@@ -10,12 +10,18 @@ A modern and interactive personal portfolio website built to showcase my skills,
 🧑‍💻 Projects showcase section
 📬 Contact form integration
 🌙 Modern UI/UX design
+
+
 🛠️ Tech Stack
+
+
 HTML5 – Structure of the website
 CSS3 – Styling and layout
 JavaScript (ES6) – Functionality and interactivity
 Three.js – 3D graphics and animations
+
 📂 Project Structure
+
 3D-PORT/
 │── index.html
 │── Arpit_Upadhyay_CV.pdf
